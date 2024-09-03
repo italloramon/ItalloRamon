@@ -4,7 +4,7 @@
 
 <p align="left">My name is <b>Itallo Ramon</b> and i'm a brazilian Software Engineer.<br>Currently i'm studying Computer Science and working hard every day for be a good developer.<br>
 
-<a href="https://italloramon.com">Check out my portfolio!</a>
+<a href="https://italloramon.com" target="_blank">Check out my portfolio!</a>
 
 ###
 
